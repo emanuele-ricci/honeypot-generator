@@ -1,0 +1,659 @@
+Acorp W400G or W422G wireless ADSL modem (MontaVista embedded Linux 2.4.17)
+Apple Mac OS 8.1 - 8.6
+Apple Mac OS 9.0.4 - 9.2
+Apple Mac OS 9.2
+Apple Mac OS X 10.3.9 (Panther) - 10.4.5 (Tiger) (Darwin 7.9.0 - 8.5.0, PowerPC)
+Apple Mac OS X 10.3.9 (Panther) - 10.4.7 (Tiger) (Darwin 7.9.0 - 8.7.8, PowerPC)
+Apple Mac OS X 10.3.9 (Panther) (Darwin 7.9.0, PowerPC)
+Apple Mac OS X 10.4.10 - 10.4.11 (Tiger) (Darwin 8.10.0 - 8.11.0)
+Apple Mac OS X 10.4.10 - 10.4.11 (Tiger) (Darwin 8.10.0 - 8.11.1)
+Apple Mac OS X 10.4.10 (Tiger) (Darwin 8.10.0, PowerPC)
+Apple Mac OS X 10.4.10 (Tiger) (Darwin 8.10.1)
+Apple Mac OS X 10.4.11 (Tiger) (Darwin 8.11.0)
+Apple Mac OS X 10.4.11 (Tiger) (Darwin 8.11.0, PowerPC)
+Apple Mac OS X 10.4.8 - 10.4.11 (Tiger) (Darwin 8.8.0 - 8.11.0)
+Apple Mac OS X 10.4.8 - 10.4.11 (Tiger) (Darwin 8.8.0 - 8.11.0, PowerPC)
+Apple Mac OS X 10.4.8 - 10.4.11 (Tiger) (Darwin 8.8.0 - 8.11.1)
+Apple Mac OS X 10.4.8 - 10.4.9 (Tiger) (Darwin 8.8.0 - 8.9.0, PowerPC)
+Apple Mac OS X 10.4.9 - 10.4.10 (Tiger) (Darwin 8.11.0 - 8.11.1, PowerPC)
+Apple Mac OS X 10.4.9 (Tiger) (PowerPC)
+Apple Mac OS X 10.4 (Tiger) (Darwin 8.0.0)
+Apple Mac OS X 10.5 - 10.6.7 (Leopard - Snow Leopard) (Darwin 9.0.0 - 10.7.0)
+Apple Mac OS X 10.5 - 10.6.8 (Leopard - Snow Leopard) (Darwin 9.0.0b5 - 10.8.0) or iOS 4.0 - 4.2.1
+Apple Mac OS X 10.5.2 - 10.6.7 (Leopard - Snow Leopard) (Darwin 9.2.0 - 10.7.0) or iOS 4.0.1 - 4.2.1
+Apple Mac OS X 10.5.3 - 10.5.4 (Leopard) (Darwin 9.3.0 - 9.4.0)
+Apple Mac OS X 10.5.3 (Leopard) (Darwin 9.3.0)
+Apple Mac OS X 10.5.4 (Leopard) (Darwin 9.4.0)
+Apple Mac OS X 10.5.5 - 10.6.6 (Leopard - Snow Leopard) (Darwin 9.5.0 - 10.6.0)
+Apple Mac OS X 10.5.5 (Leopard) (Darwin 9.5.0)
+Apple Mac OS X 10.5.6 - 10.6.2 (Leopard - Snow Leopard) (Darwin 9.6.0 - 10.2.0)
+Apple Mac OS X 10.5.6 (Leopard) (Darwin 9.5.0)
+Apple Mac OS X 10.5.6 (Leopard) (Darwin 9.6.0)
+Apple Mac OS X 10.5.7 (Leopard) (Darwin 9.7.0)
+Apple Mac OS X 10.5.8 - 10.6.4 (Leopard - Snow Leopard) (Darwin 9.8.0 - 10.4.0)
+Apple Mac OS X 10.5.8 (Leopard) (Darwin 9.8.0)
+Apple Mac OS X 10.5 (Leopard) (Darwin 9.0.0)
+Apple Mac OS X 10.5 (Leopard) (Darwin 9.0.0b4, x86)
+Apple Mac OS X 10.5 (Leopard) (Darwin 9.2.2, x86)
+Apple Mac OS X 10.6.2 (Snow Leopard) (Darwin 10.2.0)
+Apple Mac OS X 10.6.3 (Snow Leopard) (Darwin 10.3.0)
+Apple Mac OS X 10.6.4 (Snow Leopard) (Darwin 10.4.0)
+Apple Mac OS X 10.6.5 (Snow Leopard) (Darwin 10.5.0)
+Apple Mac OS X 10.6.6 (Snow Leopard) (Darwin 10.6.0)
+Apple Mac OS X 10.6.7 (Snow Leopard) (Darwin 10.7.0)
+Apple Mac OS X 10.6.8 (Snow Leopard) (Darwin 10.8.0)
+Apple Mac OS X 10.6 (Snow Leopard) (Darwin 10.0.0)
+Apple Mac OS X 10.7.0 - 10.7.2 (Lion) (Darwin 11.0.0 - 11.2.0)
+Apple Mac OS X 10.7.0 - 10.7.2 (Lion) (Darwin 11.0.0 - 11.2.0) or iOS 4.2 - 4.3.5
+Apple Mac OS X 10.7.0 - 10.7.2 (Lion) (Darwin 11.0.0 - 11.2.0) or iPhone mobile phone (iOS 4.3.2)
+Apple Mac OS X 10.7.2 (Lion) (Darwin 11.2.0)
+Apple Mac OS X Server 10.1 (Darwin 5.5)
+Apple Mac OS X Server 10.2.8 (Jaguar) (Darwin 6.8, PowerPC)
+Apple Mac OS X Server 10.3.9 (Panther) (Darwin 7.9.0, PowerPC)
+Apple Mac OS X Server 10.5.1 (Leopard) (Darwin 9.1.0)
+Apple Mac OS X Server 10.5 (Leopard) pre-release build 9A284
+Avaya G700 Telephony Media Gateway or Sun Advanced Lights Out Maganer 1.5.2 (VxWorks)
+Burny CNC controller (Microsoft Windows XP Embedded)
+Cisco IOS XR 4.1.1
+Cisco Micro Webserver 200, HP WP110 print server, Tektronix TDS3034B oscilloscope or XP350 terminal, or Xerox Document Centre 405 printer
+Cisco SCE 2020 Service Control Engine load balancer
+Crestron AV2 or CP2E automation system or TPS-6x touchpanel (2-Series), or Dedicated Micros Digital Sprite 2 DVR
+DEC Digital UNIX 5.X
+DEC Digital UNIX OSF1 v4.0 1229
+DEC Digital UNIX OSF1 v5.0 910 or OpenVMS 7.2
+DEC Digital UNIX v4.0F
+Dell Remote Access Controller 5 (DRAC 5)
+Digital UNIX 5.6
+D-Link DSL-G624T wireless ADSL router (MontaVista embedded Linux 2.4.17), or Netgear DG834Bv3 ADSL router or DG834G WAP
+DragonFly BSD 2.9
+Embedded Linux 2.4.22 (Linksys NSLU2 NAS device or Synology DS-106j NAS server)
+FreeBSD 2.2.8-STABLE - 2.2.9 (x86)
+FreeBSD 3.5.1 (x86)
+FreeBSD 4.10-RELEASE
+FreeBSD 4.10-RELEASE - 5.4-SECURITY
+FreeBSD 4.10-RELEASE (x86)
+FreeBSD 4.10-STABLE - 4.11-SECURITY
+FreeBSD 4.1.1
+FreeBSD 4.11-RELEASE
+FreeBSD 4.11-RELEASE (x86)
+FreeBSD 4.11-STABLE
+FreeBSD 4.3-RELEASE or IBM AIX 5.3 - 6.1
+FreeBSD 4.6
+FreeBSD 4.6.2-RELEASE
+FreeBSD 4.7-STABLE
+FreeBSD 4.9-RELEASE
+FreeBSD 5.1
+FreeBSD 5.2.1-RC2
+FreeBSD 5.2.1-RELEASE
+FreeBSD 5.3 or 5.5 (x86)
+FreeBSD 5.4-RELEASE
+FreeBSD 5.4-STABLE
+FreeBSD 5.5-STABLE
+FreeBSD 6.0-RELEASE
+FreeBSD 6.0-RELEASE - 6.2-RELEASE
+FreeBSD 6.0-SECURITY (x86)
+FreeBSD 6.0-STABLE - 6.2-RELEASE
+FreeBSD 6.1-RELEASE
+FreeBSD 6.1-RELEASE - 6.2
+FreeBSD 6.1-RELEASE - 6.2-RELEASE
+FreeBSD 6.1-RELEASE-p10 (x86_64)
+FreeBSD 6.1-STABLE
+FreeBSD 6.1-STABLE - 6.2-RELEASE
+FreeBSD 6.2-RC1
+FreeBSD 6.2-RELEASE
+FreeBSD 6.2-RELEASE-p2 (pf with scrub enabled)
+FreeBSD 6.2-RELEASE (x86)
+FreeBSD 6.2-STABLE - 6.4-STABLE
+FreeBSD 6.3-PRERELEASE
+FreeBSD 6.3-RELEASE
+FreeBSD 6.3-RELEASE-p1
+FreeBSD 6.3-STABLE
+FreeBSD 7.0
+FreeBSD 7.0-BETA2 (custom compiled)
+FreeBSD 7.0-BETA4
+FreeBSD 7.0-BETA4 - 7.0
+FreeBSD 7.0-CURRENT
+FreeBSD 7.0-CURRENT (pre-release)
+FreeBSD 7.0-RC1
+FreeBSD 7.0-RELEASE
+FreeBSD 7.0-RELEASE - 8.0-STABLE
+FreeBSD 7.0-RELEASE-p1
+FreeBSD 7.0-RELEASE-p1 - 9.0-PRERELEASE
+FreeBSD 7.0-RELEASE-p2 - 7.1-PRERELEASE
+FreeBSD 7.0-RELEASE-p5
+FreeBSD 7.0-STABLE
+FreeBSD 7.1-PRERELEASE 7.2-STABLE
+FreeBSD 7.1-PRERELEASE - 7.3-RELEASE
+FreeBSD 7.1-RELEASE
+FreeBSD 7.1-RELEASE - 9.0-CURRENT
+FreeBSD 7.2-RELEASE
+FreeBSD 7.2-RELEASE - 8.0-RELEASE
+FreeBSD 7.2-STABLE
+FreeBSD 8.0-BETA2 - 8.0-RELEASE
+FreeBSD 8.0-CURRENT
+FreeBSD 8.0-RC1-p1
+FreeBSD 8.0-RELEASE
+FreeBSD 8.0-STABLE
+FreeBSD 8.1
+FreeBSD 8.1-RELEASE
+FreeBSD 8.1-STABLE
+FreeBSD 8.2
+FreeBSD 8.2-RELEASE
+FreeBSD 8.2-STABLE
+Fuji DryPix medical imager (Microsoft Windows XP Embedded)
+HP 9100c Digital Sender printer (J3113A)
+HP JetDirect 175x print server (J6035G) or 9100c Digital Sender printer
+HP LaserJet 3600 printer, HP ProCurve 2650 switch, or Motorola SURFboard SB5100E cable modem
+HP ProCurve 2524 switch, HP JetDirect 175x print server, or Symmetricon NTS-150 time server
+HP ProCurve 2524 switch or 9100c Digital Sender printer
+HPUX B.11.0 x
+IBM AIX 5.2 ML 1
+iDirect Protocol Processor (Red Hat Enterprise Linux 3)
+ Lanier LS232c, NRG DSc428, Ricoh Aficio 2020, Ricoh NRG MP 161, or Savin 8055 printer
+Lexmark S305, S405, Pro 700, Pro 800, or Pro 900 printer
+Linksys WAG200G WAP (MontaVista Linux 2.4.17)
+Linux 1.0.9
+Linux 2.0.33
+Linux 2.0.33 (Red Hat 5.0)
+Linux 2.0.35 - 2.0.36
+Linux 2.0.36 (Red Hat 5.2)
+Linux 2.0.39 - 2.0.40 (embedded)
+Linux 2.2.13 (SuSE 6.3)
+Linux 2.2.14 (Red Hat 6.2)
+Linux 2.2.5 - 2.2.14 (Red Hat 6.0 - 6.2)
+Linux 2.2.9
+Linux 2.4.18
+Linux 2.4.18-14 (Red Hat 8)
+Linux 2.4.18 - 2.4.35 (likely embedded)
+Linux 2.4.19
+Linux 2.4.19 - 2.4.20
+Linux 2.4.20
+Linux 2.4.20 - 2.4.27
+Linux 2.4.20 - 2.4.37
+Linux 2.4.20-grsec
+Linux 2.4.20 (Red Hat 7.2)
+Linux 2.4.21
+Linux 2.4.21 - 2.4.25 (embedded)
+Linux 2.4.21 - 2.4.27
+Linux 2.4.21 - 2.4.31 (likely embedded)
+Linux 2.4.21 (embedded)
+Linux 2.4.21 (SuSE 9.0)
+Linux 2.4.21 (SuSE 9.1)
+Linux 2.4.22 (x86)
+Linux 2.4.26 (Slackware 10.0.0)
+Linux 2.4.27
+Linux 2.4.2 (Red Hat 7.1)
+Linux 2.4.31 (Slackware v10.2)
+Linux 2.4.31 w/grsec (x86)
+Linux 2.4.32
+Linux 2.4.32 (x86)
+Linux 2.4.33
+Linux 2.4.33 (embedded)
+Linux 2.4.35
+Linux 2.4.7
+Linux 2.4.9 - 2.4.18 (likely embedded)
+Linux 2.4.9 (Red Hat Enterprise Linux 2.1 AS)
+Linux 2.6.11
+Linux 2.6.11 - 2.6.15
+Linux 2.6.11 - 2.6.18
+Linux 2.6.11 - 2.6.20
+Linux 2.6.11 (Auditor)
+Linux 2.6.11-auditor-10 (Auditor CD, x86)
+Linux 2.6.11 (Fedora Code 3, SMP, x86)
+Linux 2.6.12
+Linux 2.6.12 - 2.6.14 (embedded)
+Linux 2.6.12 (Dreambox derivative)
+Linux 2.6.13 - 2.6.19
+Linux 2.6.13 - 2.6.20
+Linux 2.6.13 - 2.6.32
+Linux 2.6.13 (embedded)
+Linux 2.6.14 - 2.6.18
+Linux 2.6.14 - 2.6.30
+Linux 2.6.14 - 2.6.34
+Linux 2.6.14.7 (PLD Linux, x86)
+Linux 2.6.14 (ASPLinux 11)
+Linux 2.6.15
+Linux 2.6.15 - 2.6.16 (Ubuntu)
+Linux 2.6.15 - 2.6.24 (embedded)
+Linux 2.6.15 - 2.6.26
+Linux 2.6.15 - 2.6.27
+Linux 2.6.15 - 2.6.28
+Linux 2.6.15 - 2.6.30
+Linux 2.6.15 - 2.6.31
+Linux 2.6.15-27 (Ubuntu)
+Linux 2.6.15-27 (Ubuntu 6.06)
+Linux 2.6.15-28-amd64-server (Ubuntu, x86_64, SMP)
+Linux 2.6.15 (likely TP-Link WAP)
+Linux 2.6.15 (Ubuntu)
+Linux 2.6.15 (Ubuntu 6.06)
+Linux 2.6.16
+Linux 2.6.16 - 2.6.20
+Linux 2.6.16 - 2.6.25
+Linux 2.6.16 - 2.6.28
+Linux 2.6.16 - 2.6.35 (embedded)
+Linux 2.6.16.27 (fli4l 3.1.1)
+Linux 2.6.16 (SUSE Linux Enterprise Server 10)
+Linux 2.6.17
+Linux 2.6.17 - 2.6.21
+Linux 2.6.17 - 2.6.21 (x86)
+Linux 2.6.17 - 2.6.26
+Linux 2.6.17 - 2.6.26 (Gentoo, x86_64)
+Linux 2.6.17 - 2.6.27
+Linux 2.6.17 - 2.6.28
+Linux 2.6.17 - 2.6.30
+Linux 2.6.17 - 2.6.36
+Linux 2.6.17 - 2.6.38
+Linux 2.6.17 (Mandriva)
+Linux 2.6.18
+Linux 2.6.18 - 2.6.21
+Linux 2.6.18 - 2.6.24
+Linux 2.6.18 - 2.6.25
+Linux 2.6.18 - 2.6.26
+Linux 2.6.18 - 2.6.27
+Linux 2.6.18 - 2.6.28
+Linux 2.6.18 - 2.6.31
+Linux 2.6.18 - 2.6.32
+Linux 2.6.18 - 3.1
+Linux 2.6.18.5 (Ubuntu, x86)
+Linux 2.6.18-8.el5 (Red Hat Enterprise Linux 5)
+Linux 2.6.18-8.el5 (Red Hat Enterprise Linux 5, x86_64, SMP)
+Linux 2.6.18-8.el5 (Red Hat Enterprise Linux Server 5, x86_64, SMP)
+Linux 2.6.18.8 (openSUSE 10.2)
+Linux 2.6.18.8 (openSUSE 10.2, SMP)
+Linux 2.6.18 (CentOS 5)
+Linux 2.6.18 (CentOS 5.2)
+Linux 2.6.18 (Centos 5.3)
+Linux 2.6.18 (CentOS 5.4)
+Linux 2.6.18 (CentOS 5, x86_64, SMP)
+Linux 2.6.18 (ClarkConnect 4.3 Enterprise Edition)
+Linux 2.6.18 (Debian 4.0, x86)
+Linux 2.6.18 (Debian 4, VMware)
+Linux 2.6.18 (Debian, x86)
+Linux 2.6.18-em64t (x86-64)
+Linux 2.6.18.pi (x86)
+Linux 2.6.18 (Slackware 11.0)
+Linux 2.6.18 (SMP)
+Linux 2.6.18 (x86_64)
+Linux 2.6.19 - 2.6.32
+Linux 2.6.19 - 2.6.35
+Linux 2.6.19 - 2.6.39
+Linux 2.6.19 - 3.0
+Linux 2.6.19 (Gentoo)
+Linux 2.6.20
+Linux 2.6.20-15-generic (x86, SMP)
+Linux 2.6.20-1 (Fedora Core 5)
+Linux 2.6.20 - 2.6.24 (Ubuntu 7.04 - 8.04)
+Linux 2.6.20 - 2.6.25
+Linux 2.6.20 - 2.6.28
+Linux 2.6.20.6
+Linux 2.6.20-gentoo-r8 (Gentoo, x86, SMP)
+Linux 2.6.20-grml
+Linux 2.6.20 (Ubuntu, x86_64)
+Linux 2.6.21
+Linux 2.6.21.1 (x86_64)
+Linux 2.6.21 - 2.6.27
+Linux 2.6.21 - 2.6.28
+Linux 2.6.21 (Arch Linux 0.8, x86)
+Linux 2.6.21-gentoo-r4 (PowerPC)
+Linux 2.6.22
+Linux 2.6.22.1-32.fc6 (x86, SMP)
+Linux 2.6.22 - 2.6.23
+Linux 2.6.22 - 2.6.24
+Linux 2.6.22 - 2.6.36
+Linux 2.6.22 (Debian 4.0)
+Linux 2.6.22 (Debian, x86_64)
+Linux 2.6.22 (embedded, ARM)
+Linux 2.6.22 (Fedora 7)
+Linux 2.6.22 (Fedora Core 6)
+Linux 2.6.22 (Gentoo, x86)
+Linux 2.6.22 (Kubuntu, x86)
+Linux 2.6.22 (LinuxMCE)
+Linux 2.6.22 (SPARC)
+Linux 2.6.22 (Ubuntu 7.04, x86, SMP)
+Linux 2.6.22 (Ubuntu 7.10)
+Linux 2.6.22 (Ubuntu 7.10, x86)
+Linux 2.6.22 (Ubuntu 7.10, x86_64)
+Linux 2.6.22 (Ubuntu 8.04 Server Edition)
+Linux 2.6.22 (Ubuntu, x86)
+Linux 2.6.23
+Linux 2.6.23 - 2.6.29
+Linux 2.6.23 - 2.6.38
+Linux 2.6.23 (Gentoo)
+Linux 2.6.23-gentoo-r3
+Linux 2.6.24
+Linux 2.6.24 - 2.6.25
+Linux 2.6.24 - 2.6.26
+Linux 2.6.24 - 2.6.26 (Debian)
+Linux 2.6.24 - 2.6.28
+Linux 2.6.24 - 2.6.33
+Linux 2.6.24 - 2.6.36
+Linux 2.6.24 (Debian)
+Linux 2.6.24 (Gentoo)
+Linux 2.6.24 (Gentoo, x86)
+Linux 2.6.24 (Palm Pre mobile phone)
+Linux 2.6.24 (Ubuntu 8.04)
+Linux 2.6.25
+Linux 2.6.25 (Arch Linux)
+Linux 2.6.25 (Gentoo)
+Linux 2.6.25 (openSUSE 11.0)
+Linux 2.6.26
+Linux 2.6.26 - 2.6.27
+Linux 2.6.26 (PCLinuxOS)
+Linux 2.6.27
+Linux 2.6.27.21-grsec
+Linux 2.6.27 - 2.6.30
+Linux 2.6.27 (Arch Linux)
+Linux 2.6.27 (openSUSE 11.1)
+Linux 2.6.27 (Ubuntu 8.10)
+Linux 2.6.28
+Linux 2.6.28 (Gentoo)
+Linux 2.6.28 (Ubuntu)
+Linux 2.6.29
+Linux 2.6.29 - 2.6.31
+Linux 2.6.29 (Gentoo)
+Linux 2.6.30
+Linux 2.6.31
+Linux 2.6.31 - 2.6.32
+Linux 2.6.31 - 2.6.35
+Linux 2.6.31 - 2.6.38
+Linux 2.6.31 - 3.0
+Linux 2.6.32
+Linux 2.6.32 - 2.6.33
+Linux 2.6.32 - 2.6.34
+Linux 2.6.32 - 2.6.35
+Linux 2.6.32 - 2.6.36
+Linux 2.6.32 - 2.6.38
+Linux 2.6.32 - 2.6.39
+Linux 2.6.32 - 3.0
+Linux 2.6.32 - 3.1
+Linux 2.6.32 - 3.2
+Linux 2.6.33
+Linux 2.6.34
+Linux 2.6.35
+Linux 2.6.35 (Ubuntu)
+Linux 2.6.36
+Linux 2.6.36 - 2.6.37
+Linux 2.6.37
+Linux 2.6.37 - 2.6.39
+Linux 2.6.37 (OpenSUSE 11.4)
+Linux 2.6.38
+Linux 2.6.38 - 2.6.39
+Linux 2.6.38 - 3.0
+Linux 2.6.38 - 3.2
+Linux 2.6.39
+Linux 2.6.5
+Linux 2.6.5 - 2.6.12
+Linux 2.6.5 - 2.6.18
+Linux 2.6.5 - 2.6.19
+Linux 2.6.5 - 2.6.9 (x86)
+Linux 2.6.5-7.283-smp (SuSE Enterprise Server 9, x86)
+Linux 2.6.5 (Fedora Core 2)
+Linux 2.6.5 (SUSE Enterprise Server 9)
+Linux 2.6.6
+Linux 2.6.8
+Linux 2.6.8 - 2.6.27
+Linux 2.6.8 - 2.6.32
+Linux 2.6.8 (Debian 3.1)
+Linux 2.6.8 (Debian Sarge)
+Linux 2.6.8 (Debian, x86)
+Linux 2.6.8 (x86)
+Linux 2.6.9
+Linux 2.6.9-022stab078.19-enterprise (CentOS 4.2 x86)
+Linux 2.6.9-22.0.1.EL (CentOS 4.4)
+Linux 2.6.9 - 2.6.11
+Linux 2.6.9 - 2.6.14
+Linux 2.6.9 - 2.6.15
+Linux 2.6.9 - 2.6.18
+Linux 2.6.9 - 2.6.19
+Linux 2.6.9 - 2.6.21
+Linux 2.6.9 - 2.6.24
+Linux 2.6.9 - 2.6.27
+Linux 2.6.9 - 2.6.30
+Linux 2.6.9 - 2.6.31
+Linux 2.6.9-42.ELsmp (Red Hat Enterprise Linux AS release 4, x86_64)
+Linux 2.6.9-55.0.2.EL (Red Hat Enterprise Linux)
+Linux 2.6.9 (CentOS 4.3)
+Linux 2.6.9 (CentOS 4.4)
+Linux 2.6.9 (Red Hat Enterprise Linux, x86_64)
+Linux 3.0
+Linux 3.0 - 3.1
+Linux 3.1
+Linux Kernel 2.4.5 and above
+Luminary Micro ARM Evaluation Kit
+Mac OS 9.2.x
+Mac OS X 10.1.5
+Microsoft Mediaroom set-top box
+Microsoft MN-700 wireless broadband router
+Microsoft Network Client 3.0 for MS-DOS
+Microsoft Windows 2000
+Microsoft Windows 2000/2000SP1/2000SP2/2000SP3
+Microsoft Windows 2000 AS
+Microsoft Windows 2000 AS SP4
+Microsoft Windows 2000 or Windows Server 2003 SP1
+Microsoft Windows 2000 Professional (no service pack)
+Microsoft Windows 2000 Professional SP4
+Microsoft Windows 2000 Server SP3 or SP4
+Microsoft Windows 2000 Server SP4
+Microsoft Windows 2000 Server SP4 or Windows XP Professional SP3
+Microsoft Windows 2000 SP0
+Microsoft Windows 2000 SP0/SP2/SP4 or Windows XP SP0/SP1
+Microsoft Windows 2000 SP0 - SP4 or Windows XP SP0 - SP1
+Microsoft Windows 2000 SP1
+Microsoft Windows 2000 SP2
+Microsoft Windows 2000 SP2 - SP4, Windows XP SP2 - SP3, or Windows Server 2003 SP0 - SP2
+Microsoft Windows 2000 SP3/SP4 or Windows XP SP1/SP2
+Microsoft Windows 2000 SP4
+Microsoft Windows 2000 SP4 or Windows XP Professional SP1
+Microsoft Windows 2000 SP4 or Windows XP SP1a
+Microsoft Windows 2000 SP4 or Windows XP SP2
+Microsoft Windows 2000 SP4 or Windows XP SP2 or SP3
+Microsoft Windows 2000 SP6
+Microsoft Windows 3.1 with Trumpet WinSock
+Microsoft Windows 7
+Microsoft Windows 7 Enterprise
+Microsoft Windows 7 or Windows Server 2008
+Microsoft Windows 7 or Windows Server 2008 R2
+Microsoft Windows 7 or Windows Server 2008 SP1
+Microsoft Windows 7 Professional
+Microsoft Windows 7 Professional SP1
+Microsoft Windows 7 SP1
+Microsoft Windows 7 Ultimate
+Microsoft Windows 7 Ultimate Beta (build 7000)
+Microsoft Windows 7 Ultimate SP0 - SP1
+Microsoft Windows 95
+Microsoft Windows 98
+Microsoft Windows 98/98SE
+Microsoft Windows 98 (German)
+Microsoft Windows 98 SE
+Microsoft Windows 98 SE (no service pack)
+Microsoft Windows CE 3.0
+Microsoft Windows CE 4.20
+Microsoft Windows CE 5.0 (ARM)
+Microsoft Windows CE 6.0
+Microsoft Windows for Workgroups 3.11
+Microsoft Windows for Workgroups 3.11, Windows NT 3.51 SP0 - SP5, or Windows 95
+Microsoft Windows Fundamentals for Legacy PCs (XP Embedded derivative)
+Microsoft Windows Longhorn
+Microsoft Windows Millenium Edition (Me) 4.90.3000
+Microsoft Windows Millennium Edition (Me)
+Microsoft Windows Mobile 5.0 - 6.1 or Zune audio player (firmware 2.2)
+Microsoft Windows Mobile 6.0 - 6.1
+Microsoft Windows Mobile 6 (CE OS 5.0 - 5.2)
+Microsoft Windows NT 3.1
+Microsoft Windows NT 4.0
+Microsoft Windows NT 4.0 SP0
+Microsoft Windows NT 4.0 SP3
+Microsoft Windows NT 4.0 SP5
+Microsoft Windows NT 4.0 SP5 - SP6a
+Microsoft Windows NT 4.0 SP6
+Microsoft Windows NT 4.0 SP6a
+Microsoft Windows NT 4.0 Terminal Server Edition SP6
+Microsoft Windows NT 4 Service Pack 3 and Below
+Microsoft Windows NT 4 Service Pack 4 and Above
+Microsoft Windows NT SP6
+Microsoft Windows NT Version 4.0 SP6
+Microsoft Windows NT Workstation 4.0 SP6a
+Microsoft Windows Server 2003
+Microsoft Windows Server 2003 2
+Microsoft Windows Server 2003 Enterprise Edition
+Microsoft Windows Server 2003 Enterprise Edition SP2
+Microsoft Windows Server 2003 R2 SP1
+Microsoft Windows Server 2003 R2 SP2
+Microsoft Windows Server 2003 SP0
+Microsoft Windows Server 2003 SP0 or Windows XP SP2
+Microsoft Windows Server 2003 SP1
+Microsoft Windows Server 2003 SP1 or SP2
+Microsoft Windows Server 2003 SP1 - SP2
+Microsoft Windows Server 2003 SP2
+Microsoft Windows Server 2003 SP2 (x64)
+Microsoft Windows Server 2003 SP3
+Microsoft Windows Server 2008
+Microsoft Windows Server 2008 Beta 3
+Microsoft Windows Server 2008 R2
+Microsoft Windows Server 2008 SP1
+Microsoft Windows Server 2008 SP2
+Microsoft Windows Small Business Server 2003
+Microsoft Windows Small Business Server 2003 SP1
+Microsoft Windows Small Business Server 2003 SP2
+Microsoft Windows Vista
+Microsoft Windows Vista Business
+Microsoft Windows Vista Enterprise
+Microsoft Windows Vista Home Premium SP1
+Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Microsoft Windows Vista or Windows 7 SP1
+Microsoft Windows Vista SP0 or SP1
+Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7
+Microsoft Windows Vista SP0 - SP1
+Microsoft Windows Vista SP0 - SP2, Windows Server 2008, or Windows 7 Ultimate
+Microsoft Windows Vista SP1
+Microsoft Windows Vista SP2
+Microsoft Windows Vista SP2 or Windows Server 2008
+Microsoft Windows XP
+Microsoft Windows XP Embedded
+Microsoft Windows XP Embedded SP2
+Microsoft Windows XP Home Edition SP3
+Microsoft Windows XP Home SP1
+Microsoft Windows XP Home SP1 (French)
+Microsoft Windows XP Home SP2
+Microsoft Windows XP Home SP2 (Russian)
+Microsoft Windows XP Professional
+Microsoft Windows XP Professional SP1
+Microsoft Windows XP Professional SP2
+Microsoft Windows XP Professional SP2 (firewall enabled)
+Microsoft Windows XP Professional SP2 (French)
+Microsoft Windows XP Professional SP2 (German)
+Microsoft Windows XP Professional SP2 or SP3
+Microsoft Windows XP Professional SP2 or Windows Server 2003
+Microsoft Windows XP Professional SP2 - SP3
+Microsoft Windows XP Professional SP3
+Microsoft Windows XP SP0
+Microsoft Windows XP SP0 or SP1
+Microsoft Windows XP SP1
+Microsoft Windows XP SP 2
+Microsoft Windows XP SP2
+Microsoft Windows XP SP2 (firewall disabled)
+Microsoft Windows XP SP2 Media Center Edition
+Microsoft Windows XP SP2 (Norwegian)
+Microsoft Windows XP SP2 or SP3
+Microsoft Windows XP SP2 or SP3, or Windows Server 2003
+Microsoft Windows XP SP2 or Windows Server 2003 SP1 or SP2
+Microsoft Windows XP SP2 or Windows Server 2003 SP2
+Microsoft Windows XP SP2 - SP3
+Microsoft Windows XP SP3
+Microsoft Windows XP SP3 (MicroXP)
+Microsoft Windows XP SP3 or Small Business Server 2003
+Microsoft Windows XP SP3 or Windows Server 2003
+Microsoft Windows XP SP3 or Windows Server 2003 SP2
+Microsoft Windows XP SP3, Windows Server 2003, or Windows Vista SP1
+Microsoft Xbox game console (modified, running XboxMediaCenter)
+Microsoft Zune audio player (firmware 3.1)
+MontaVista embedded Linux 2.4.17
+Neptune354 firmware (MontaVista Linux 2.4.17)
+NetBSD 1.4.2 - 1.5.2
+NetBSD 1.5.0
+NetBSD 1.5.2
+NetBSD 2.1.0_STABLE or Ricoh C720S, 1107EX, or MP 2550 printer
+NetBSD 3.1.1
+NetBSD 3.1 - 4.0 (AMD64)
+NetBSD 4.0
+NetBSD 4.0_BETA2, Feb. 21st CVS snapshot
+NetBSD 4.0_STABLE
+NetBSD 4.99.49 (x86)
+NetBSD 5.0
+NetBSD 5.0 - 5.99.5
+Netgear DG834G WAP or Western Digital WD TV media player
+Netgear EVA700 Digital Entertainer set top box
+Netgear EVA8000 Digital Entertainer set top box
+Nokia E51, N86, E90 Communicator, or N95 mobile phone (Symbian OS 9.2 - 10.0)
+ONStor Bobcat 2220 NAS Gateway (runs OpenBSD 2.8)
+OpenBSD 2.9
+OpenBSD 2.9 (x86)
+OpenBSD 3.1
+OpenBSD 3.2 (x86)
+OpenBSD 3.3
+OpenBSD 3.4 (x86)
+OpenBSD 3.5
+OpenBSD 3.6 (x86)
+OpenBSD 3.8 - 4.6
+OpenBSD 3.9
+OpenBSD 3.9 - 4.2
+OpenBSD 3.9 - 4.4
+OpenBSD 4.0
+OpenBSD 4.0 (x86)
+OpenBSD 4.1
+OpenBSD 4.1 - 4.3
+OpenBSD 4.1 - 4.7
+OpenBSD 4.1 (x86)
+OpenBSD 4.2
+OpenBSD 4.2 - 4.4
+OpenBSD 4.3
+OpenBSD 4.4
+OpenBSD 4.4 - 4.6
+OpenBSD 4.5
+OpenBSD 4.6
+OpenBSD 4.7
+OpenBSD 4.8
+OpenBSD 4.9
+OpenBSD 4.9 - 5.0
+OpenBSD 5.0
+OpenVZ Linux virtualization kernel (Linux 2.6.18-028stab023.1+31-openvz-smp)
+OpenVZ Linux virtualization kernel (Linux 2.6.18-028stab045)
+ or Panasonic Network Camera (BB-HCM331, BB-HCM381, BCL-30A, BL-C1CE, or BL-C10CE)
+PDA running Microsoft Windows Mobile 2003 PocketPC
+Radware OnDemand Switch 2 XL (APsolute OS 10.31)
+SCO OpenServer 5
+SCO OpenServer 5.0.2 - 5.0.5
+SCO OpenServer 5.05
+SCO OpenServer 5.0.7
+SCO OpenServer 5.0.7 (x86)
+SCO OpenServer 6.0 or UnixWare 7.1.4
+SCO OpenServer Release 5
+Sharp SL-5500 PDA (OpenZaurus 3.5.4, Linux 2.4.18)
+Sun Solaris 10
+Sun Solaris 10 (SPARC)
+Sun Solaris 10 (x86)
+Sun Solaris 11
+Sun Solaris 11 (snv_151a) or OpenIndiana oi_147
+Sun Solaris 11 (snv_151a) or OpenIndiana oi_147 - oi_148
+Sun Solaris 2.5.1 (SPARC)
+Sun Solaris 2.6
+Sun Solaris 5 (SunOS 2.5)
+Sun Solaris 6 (SunOS 2.6)
+Sun Solaris 7
+Sun Solaris 7 (SPARC)
+Sun Solaris 7 (SunOS 2.7)
+Sun Solaris 8 (SPARC)
+Sun Solaris 8 (SunOS 2.8)
+Sun Solaris 8 (x86)
+Sun Solaris 9
+Sun Solaris 9 or 10
+Sun Solaris 9 or 10, or OpenSolaris 2009.06 snv_111b
+Sun Solaris 9 or 10 (SPARC)
+Sun Solaris 9 (SPARC)
+Sun Solaris 9 (SunOS 2.9)
+Sun Solaris 9 (x86)
+Sun SunOS 4.1.3 (SPARC)
+Symbol MC9060-G mobile computer (runs Microsoft Windows CE .NET 4.20)
+Version 5.1 (Build 2600.xpsp_sp3_gdr.100427-1636 : Service Pack 3
+Western Digital MyBook World Edition 2 NAS device (Linux 2.6.17.14)
+Western Digital WD TV media player
